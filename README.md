@@ -25,6 +25,9 @@ Zip using 7-Zip:
 This guide explains how to install **gzip** on Linux and create a deployment archive from your project’s `Deploy` folder. This method is fast, reliable, and suitable for CI/CD pipelines.
 
 ---
+## Intall zip sofware on ubuntu
+
+``` apt install unzip -y ```
 
 ##  1 Install gzip
 
